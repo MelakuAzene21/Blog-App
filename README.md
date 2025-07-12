@@ -57,7 +57,7 @@ A beautiful, fully-featured blog interface built with React, TypeScript, and Tai
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/MelakuAzene21/Blog-App
    cd modern-blog
    ```
 
